@@ -1,0 +1,35 @@
+_repo: Index-of-the-Project-Gutenberg-Works-of-Cervantes_58328
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Cervantes Saavedra, Miguel de
+    aliases:
+    - Saavedra, Miguel de Cervantes
+    - De Cervantes Saavedra, Miguel
+    - Cervantes, Miguel de
+    - Cervantes, Michel
+    birthdate: 1547
+    deathdate: 1616
+    gutenberg_agent_id: '505'
+    url: http://www.gutenberg.org/2009/agents/505
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Miguel_de_Cervantes
+    - http://es.wikipedia.org/wiki/Miguel_de_Cervantes
+  editor:
+    agent_name: Widger, David
+    birthdate: 1932
+    gutenberg_agent_id: '1961'
+    url: http://www.gutenberg.org/2009/agents/1961
+description: ''
+gutenberg_issued: '2018-11-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '58328'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Index of the Project Gutenberg Works of Cervantes
+url: http://www.gutenberg.org/ebooks/58328
